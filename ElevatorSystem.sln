@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorSystemAPI", "ElevatorSystemAPI\ElevatorSystemAPI.csproj", "{553FFE1C-A8AC-4E25-9072-F8EDD54AEA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorSystemAPITest", "ElevatorSystemAPITest\ElevatorSystemAPITest.csproj", "{597E3F76-A7B4-49C3-BD87-49E3D92A62EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553FFE1C-A8AC-4E25-9072-F8EDD54AEA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553FFE1C-A8AC-4E25-9072-F8EDD54AEA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553FFE1C-A8AC-4E25-9072-F8EDD54AEA51}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{553FFE1C-A8AC-4E25-9072-F8EDD54AEA51}.Debug|x64.Build.0 = Debug|Any CPU
+		{553FFE1C-A8AC-4E25-9072-F8EDD54AEA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553FFE1C-A8AC-4E25-9072-F8EDD54AEA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553FFE1C-A8AC-4E25-9072-F8EDD54AEA51}.Release|x64.ActiveCfg = Release|Any CPU
+		{553FFE1C-A8AC-4E25-9072-F8EDD54AEA51}.Release|x64.Build.0 = Release|Any CPU
+		{597E3F76-A7B4-49C3-BD87-49E3D92A62EC}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{597E3F76-A7B4-49C3-BD87-49E3D92A62EC}.Debug|Any CPU.Build.0 = Debug|x64
+		{597E3F76-A7B4-49C3-BD87-49E3D92A62EC}.Debug|x64.ActiveCfg = Debug|x64
+		{597E3F76-A7B4-49C3-BD87-49E3D92A62EC}.Debug|x64.Build.0 = Debug|x64
+		{597E3F76-A7B4-49C3-BD87-49E3D92A62EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597E3F76-A7B4-49C3-BD87-49E3D92A62EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597E3F76-A7B4-49C3-BD87-49E3D92A62EC}.Release|x64.ActiveCfg = Release|x64
+		{597E3F76-A7B4-49C3-BD87-49E3D92A62EC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {413CAF86-4205-453C-8EBE-70483FE6B418}
+	EndGlobalSection
+EndGlobal

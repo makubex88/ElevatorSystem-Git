@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ElevatorSystem
+/ElevatorSystemAPI/bin/Debug/net8.0
+/ElevatorSystemAPI/Logs/elevatorlog-20250712.txt
+/ElevatorSystemAPI/obj
+/ElevatorSystemAPITest/bin
+/ElevatorSystemAPITest/obj
